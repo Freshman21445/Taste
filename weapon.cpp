@@ -53,4 +53,4 @@ int main() {
     InternetCloseHandle(hConnect);
     InternetCloseHandle(hInternet);
     return 0;
-
+}
